@@ -1,4 +1,4 @@
-![Warning](https://github.com/EDGENortheastern/fetch-concurrent-js-intro/blob/90eccc90a430973dfc02cd4d42ecaa64eb091b34/Group%2036.svg)
+![Warning](warning.svg)
 # APIs and how the Internet works
 
 Every page on the internet is stored somewhere on a remote server.
