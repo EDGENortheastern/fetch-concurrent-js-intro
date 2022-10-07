@@ -1,3 +1,4 @@
+![Warning](Group 36.svg)
 # APIs and how the Internet works
 
 Every page on the internet is stored somewhere on a remote server.
