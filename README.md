@@ -151,4 +151,4 @@ const onFetchDog = e => {
 
 15. Make some function calls and finish your site. If you want your own Dogle site I am afraid you need your own repo and to re-write my code.
 
-16. In pairs make sure one site works, and add some comments adn/or change some CSS.
+16. Make sure your local site works, add some comments and/or change some CSS.
